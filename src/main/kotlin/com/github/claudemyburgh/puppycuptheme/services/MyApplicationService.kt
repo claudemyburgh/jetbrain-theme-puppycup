@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.claudemyburgh.puppycuptheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.claudemyburgh.puppycuptheme.MyBundle
 
 class MyApplicationService {
 
